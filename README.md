@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ShahnawazIbrahim
-- 👀 I’m interested in AI, Machine Learning, and New Technology
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate to AI project
-- 📫 How to reach me shahnawazakhtar2@gmail.com, Whatsapp: +91 8299591611
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Shahnawaz Ibrahim!
+- 🚀 Passionate about AI, Machine Learning, and Emerging Technologies
+- 📚 Currently diving deep into Machine Learning
+- 🤝 Open to collaborating on AI projects
+- 📬 Reach me at shahnawazakhtar2@gmail.com or WhatsApp: +91 8299591611
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: The first AI program, written in 1951, could play chess but was too slow to beat a human!
 
 <!---
 ShahnawazIbrahim/ShahnawazIbrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
